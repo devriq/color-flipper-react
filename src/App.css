@@ -1,0 +1,44 @@
+#root {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #111;
+  background-color: #ffffff;
+
+  display: grid;
+  place-items: center;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.btn {
+  color: #111;
+  padding: 1rem 4rem;
+  background-color: transparent;
+  outline: 5px solid #111;
+  font-weight: 700;
+  font-size: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: white;
+  outline: 5px solid #111;
+}

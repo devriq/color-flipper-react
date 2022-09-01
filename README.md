@@ -1,2 +1,29 @@
-# color-flipper-react
-a color flipper react-app that generates random colors in hexadecimal code.
+
+# Hex Color Flipper
+
+A simples hexadecimal color random switcher app.
+
+
+
+## Tech Stack
+
+**Client:** React, CSS.
+
+
+## Deployment
+
+To deploy this project run the following code inside the project root directory
+
+```bash
+  npm run dev
+```
+## Features
+
+- Random hexadecimal colors generation
+
+
+## Authors
+
+- Adapted from the [@john-smilga](https://github.com/john-smilga/javascript-basic-projects) setup project
+- [@devriq](https://www.github.com/devriq)
+
