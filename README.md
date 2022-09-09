@@ -4,6 +4,10 @@
 A simples hexadecimal color random switcher app.
 
 
+## Screenshots
+<p align="center">
+<img src="https://github.com/devriq/color-flipper-react/blob/main/public/color-flipper-ex.gif?raw=true">
+</p>
 
 ## Tech Stack
 
