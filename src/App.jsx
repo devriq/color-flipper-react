@@ -25,9 +25,9 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>
-          BackgroundColor: <span className="color">#FFFFFF</span>
+        <span className="color">#FFFFFF</span>
         </h1>
-        <button className="btn" onClick={handleClick}>
+        <button className="btn" onClick={handleClick}> 
           Change Color
         </button>
       </div>
